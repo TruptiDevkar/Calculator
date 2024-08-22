@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(140deg,rgb(117, 117, 187),rgb(54, 54, 219));
+}
+.calculator{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
